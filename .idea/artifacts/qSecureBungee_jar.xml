@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="qSecureBungee:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="qSecureBungee.jar">
+      <element id="module-output" name="qSecureBungee" />
+    </root>
+  </artifact>
+</component>

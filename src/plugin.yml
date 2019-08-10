@@ -1,0 +1,6 @@
+name: qSecureBungee
+main: me.Browk.qSecureBungee.Main
+version: 1.0.1
+authors:
+ - 'Browk'
+description: Play.Minecraft-Romania.Ro security plugin.
